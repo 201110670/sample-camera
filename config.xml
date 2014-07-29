@@ -26,7 +26,7 @@
 </feature>
 
 <plugin name="Capture" value="org.apache.cordova.Capture"/>
-        
+        <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
         
         <preference name="orientation" value="portrait" />
         <preference name="fullscreen" value="true" />
